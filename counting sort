@@ -13,6 +13,6 @@ def countSort(arr):
         ans[i] = output[i] 
     return ans  
 
-arr = "geeksforgeeks"
+arr = "KasaPranayRavi"
 ans = countSort(arr) 
 print "Sorted character array is %s"  %("".join(ans)) 
